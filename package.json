@@ -1,0 +1,23 @@
+{
+  "name": "sui-sdk-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasylcode/sui-sdk-examples.git"
+  },
+  "author": "vasylcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasylcode/sui-sdk-examples/issues"
+  },
+  "homepage": "https://github.com/vasylcode/sui-sdk-examples#readme",
+  "dependencies": {
+    "@mysten/sui.js": "^0.27.0"
+  }
+}
